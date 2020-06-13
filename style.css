@@ -3,7 +3,7 @@ html {
   margin: 0;
 }
 body {
-  background-image: url("bg_body.gif");
+  background-image: url("assets/bg_body.gif");
   font: 20px "Nunito Sans", sans-serif;
   color: #45494d;
 }
